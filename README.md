@@ -1,1 +1,2 @@
-# react-native-gallery-app
+# React-native-gallery-app
+### Required Expo
